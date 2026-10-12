@@ -6,3 +6,13 @@ References
 [2] Zixiang Li, Ibrahim Kucukkoc. New Algorithms for Two-Sided Disassembly Line Balancing Problem. ICAMƩ’21, 2021:101.  
 
 
+
+---
+
+## Document Index
+
+- [CHANGELOG.md](CHANGELOG.md) — version history and changelog
+- [VERSION](VERSION) — current version
+- [LICENSE](LICENSE) — license
+
+**Maintainer:** IISO Team ｜ **Version:** 1.0.0 ｜ **Last Updated:** 2026-10-12
